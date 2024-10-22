@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Sarve Rapazeada</h1>
+    return <h1>Boa viagem Padrin, Brilha! zika zika</h1>
 }
 
 export default Home;
