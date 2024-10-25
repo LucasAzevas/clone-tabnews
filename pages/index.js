@@ -1,6 +1,6 @@
 function Home() {
   return (
-    <div style="display:flex justify-content:center">
+    <div>
       <div>
         <h1>Site Em Construção</h1>
       </div>
